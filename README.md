@@ -1,3 +1,12 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://github.com/hcoohb/python-yeelightbt/graphs/commit-activity)
+
+
+# WARNING: This repo is no longer going to be updated as new version is out.
+
+[New version of HA custon component here](https://github.com/hcoohb/hass-yeelightbt)
+
+
+
 # Python library for Yeelight Bedside lamp
 
 This is an ongoing effort to create a python library for [Yeelight's bedside lamp](http://www.yeelight.com/en_US/product/yeelight-ctd) and Yeelight Candela.
